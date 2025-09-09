@@ -1,6 +1,7 @@
 # Sistema Integrado para Gestão de Chamados e Suporte Técnico Baseado em IA
 
 ## Visão Geral do Projeto
+<img width="418" height="249" alt="image" src="https://github.com/user-attachments/assets/e51cdc80-d517-471c-bf94-c6aed54d9182" />
 
 
 ## Equipe de Desenvolvimento
