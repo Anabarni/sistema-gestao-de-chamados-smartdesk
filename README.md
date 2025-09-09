@@ -56,10 +56,20 @@ O desafio proposto é criar um Sistema de Gestão de Chamados disponível em ver
 
 └── README.md # Documentação principal
 
-O objetivo central é aperfeiçoar o atendimento interno das empresas, proporcionando maior agilidade no tempo de resposta e consolidando em um único ambiente a comunicação entre colaboradores e equipe técnica.
+### Executar o Projeto
+Siga as instruções abaixo para iniciar o backend e o frontend:
 
-## Visão Geral do Projeto
-<img width="418" height="249" alt="image" src="https://github.com/user-attachments/assets/e51cdc80-d517-471c-bf94-c6aed54d9182" />
+#### Backend (C#)
+```bash
+dotnet run --project ./src/Backend
+```
+
+#### Frontend (Node.js / React / Outro)
+```bash
+npm start
+```
+
+
 
 
 ## Equipe de Desenvolvimento
