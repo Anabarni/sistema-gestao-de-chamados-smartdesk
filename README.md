@@ -41,6 +41,7 @@ O desafio proposto é criar um Sistema de Gestão de Chamados disponível em ver
 
 ## Estrutura do Projeto
 /chamados-app
+
 │
 ├── /backend/ # Servidor, APIs e integração com banco de dados
 ├── /frontend/ # Aplicação web
