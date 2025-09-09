@@ -3,6 +3,16 @@
 ## Descrição do Desafio
 O desafio proposto é criar um Sistema de Gestão de Chamados disponível em versões para desktop, web e dispositivos móveis, integrado a uma solução de Inteligência Artificial gratuita. A plataforma deverá possibilitar que os usuários registrem, acompanhem e finalizem chamados de forma prática, além de contar com um suporte automatizado oferecido pela IA.
 
+## 📋 Backlog do Produto
+
+| Rank | Prioridade | User Story                               | Sprint | Entrega Resumida                 |
+|------|------------|-----------------------------------------|--------|---------------------------------|
+| 1    | Alta       | Abrir chamado no sistema                 | 1      | Tela de abertura de chamados    |
+| 2    | Alta       | Visualizar lista de chamados             | 2      | Listagem de chamados            |
+| 3    | Média      | Editar ou atualizar um chamado existente| 3      | Edição de chamados              |
+| 4    | Média      | Gerar relatório de chamados              | 4      | Relatórios e exportação         |
+| 5    | Baixa      | Integração com IA                        | 5      | Integração com IA               |
+
 O objetivo central é aperfeiçoar o atendimento interno das empresas, proporcionando maior agilidade no tempo de resposta e consolidando em um único ambiente a comunicação entre colaboradores e equipe técnica.
 
 ## Visão Geral do Projeto
