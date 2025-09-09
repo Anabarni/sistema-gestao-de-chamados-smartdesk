@@ -1,5 +1,10 @@
 # Sistema Integrado para Gestão de Chamados e Suporte Técnico Baseado em IA
 
+## Descrição do Desafio
+O desafio proposto é criar um Sistema de Gestão de Chamados disponível em versões para desktop, web e dispositivos móveis, integrado a uma solução de Inteligência Artificial gratuita. A plataforma deverá possibilitar que os usuários registrem, acompanhem e finalizem chamados de forma prática, além de contar com um suporte automatizado oferecido pela IA.
+
+O objetivo central é aperfeiçoar o atendimento interno das empresas, proporcionando maior agilidade no tempo de resposta e consolidando em um único ambiente a comunicação entre colaboradores e equipe técnica.
+
 ## Visão Geral do Projeto
 <img width="418" height="249" alt="image" src="https://github.com/user-attachments/assets/e51cdc80-d517-471c-bf94-c6aed54d9182" />
 
