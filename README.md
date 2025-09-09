@@ -13,6 +13,15 @@ O desafio proposto é criar um Sistema de Gestão de Chamados disponível em ver
 | 4    | Média      | Gerar relatório de chamados              | 4      | Relatórios e exportação         |
 | 5    | Baixa      | Integração com IA                        | 5      | Integração com IA               |
 
+##  Evolução do Projeto
+
+| Sprint | Período       | Evolução (progresso)       | Entrega (Resumo)                  |
+|--------|---------------|----------------------------|----------------------------------|
+| 1      | 01/09 - 15/09 | ███░░░░░░░░ 30%           | Tela de abertura de chamados     |
+| 2      | 16/09 - 30/09 | █░░░░░░░░░░ 10%           | Listagem de chamados             |
+| 3      | 01/10 - 15/10 | ██░░░░░░░░░ 20%           | Edição de chamados               |
+| 4      | 16/10 - 31/10 | █░░░░░░░░░░ 10%           | Relatórios e exportação          |
+| 5      | 01/11 - 15/11 | ██░░░░░░░░░ 20%           | Integração com IA                |
 
 O objetivo central é aperfeiçoar o atendimento interno das empresas, proporcionando maior agilidade no tempo de resposta e consolidando em um único ambiente a comunicação entre colaboradores e equipe técnica.
 
