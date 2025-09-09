@@ -1,0 +1,48 @@
+# Ignorar arquivos de sistema operacional
+.DS_Store
+thumbs.db
+
+# Ignorar arquivos de IDEs (Ex: VS Code)
+.vscode/
+.idea/
+
+# Ignorar arquivos de compilação e dependências
+build/
+dist/
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+log/
+
+# Ignorar arquivos de dados sensíveis ou temporários
+*.env
+.env.local
+*.tmp
+*.bak
+
+# Ignorar arquivos de cache
+*.cache
+.cache/
+
+# Ignorar arquivos de banco de dados (se aplicável)
+*.sqlite
+*.db
+
+# Ignorar arquivos de pacotes (se aplicável)
+*.jar
+*.war
+*.zip
+*.rar
+
+# Ignorar arquivos gerados automaticamente
+*.class
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de teste (se aplicável)
+/coverage/
+.nyc_output/
+
+# Ignorar arquivos de upload (se aplicável)
+/uploads/
