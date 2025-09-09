@@ -43,11 +43,17 @@ O desafio proposto é criar um Sistema de Gestão de Chamados disponível em ver
 /chamados-app
 
 │
+
 ├── /backend/ # Servidor, APIs e integração com banco de dados
+
 ├── /frontend/ # Aplicação web
+
 ├── /mobile/ # Aplicação mobile
+
 ├── /docs/ # Documentação detalhada
+
 ├── /tests/ # Testes automatizados
+
 └── README.md # Documentação principal
 
 O objetivo central é aperfeiçoar o atendimento interno das empresas, proporcionando maior agilidade no tempo de resposta e consolidando em um único ambiente a comunicação entre colaboradores e equipe técnica.
