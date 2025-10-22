@@ -3,58 +3,15 @@
 ## Descrição do Desafio
 O desafio proposto é criar um Sistema de Gestão de Chamados disponível em versões para desktop, web e dispositivos móveis, integrado a uma solução de Inteligência Artificial gratuita. A plataforma deverá possibilitar que os usuários registrem, acompanhem e finalizem chamados de forma prática, além de contar com um suporte automatizado oferecido pela IA.
 
-##  Backlog do Produto
+## [Backlog do Produto](https://github.com/Anabarni/SmartDesk-BacklogProduto)
 
-| Rank | Prioridade | User Story                               | Sprint | Entrega Resumida                 |
-|------|------------|-----------------------------------------|--------|---------------------------------|
-| 1    | Alta       | Abrir chamado no sistema                 | 1      | Tela de abertura de chamados    |
-| 2    | Alta       | Visualizar lista de chamados             | 2      | Listagem de chamados            |
-| 3    | Média      | Editar ou atualizar um chamado existente| 3      | Edição de chamados              |
-| 4    | Média      | Gerar relatório de chamados              | 4      | Relatórios e exportação         |
-| 5    | Baixa      | Integração com IA                        | 5      | Integração com IA               |
+## [Evolução do Projeto](https://github.com/Anabarni/SmartDesk-EvolucaoProjeto)
 
-##  Evolução do Projeto
+## [Sprints Detalhadas](https://github.com/Anabarni/SmartDesk-SprintsDetalhadas)
 
-| Sprint | Período       | Evolução (progresso)       | Entrega (Resumo)                  |
-|--------|---------------|----------------------------|----------------------------------|
-| 1      | 01/09 - 15/09 | ███░░░░░░░░ 30%           | Tela de abertura de chamados     |
-| 2      | 16/09 - 30/09 | █░░░░░░░░░░ 10%           | Listagem de chamados             |
-| 3      | 01/10 - 15/10 | ██░░░░░░░░░ 20%           | Edição de chamados               |
-| 4      | 16/10 - 31/10 | █░░░░░░░░░░ 10%           | Relatórios e exportação          |
-| 5      | 01/11 - 15/11 | ██░░░░░░░░░ 20%           | Integração com IA                |
+## [Estrutura do Projeto](https://github.com/Anabarni/SmartDesk-EstruturaProjeto)
 
-## Sprints Detalhadas
-
-| Sprint | Período da Sprint | Resumo da Sprint                                | Link Vídeo        | Link Documentação   |
-|--------|-----------------|------------------------------------------------|-----------------|------------------|
-| 1      | 01/09 - 15/09    | Tela de abertura de chamados e backend básico | [Vídeo Sprint 1](#) | [Doc Sprint 1](#) |
-| 2      | 16/09 - 30/09    | Tela de listagem de chamados e filtros por status | [Vídeo Sprint 2](#) | [Doc Sprint 2](#) |
-| 3      | 01/10 - 15/10    | Funcionalidade de edição e atualização de chamados | [Vídeo Sprint 3](#) | [Doc Sprint 3](#) |
-| 4      | 16/10 - 31/10    | Relatórios básicos e exportação em PDF/Excel  | [Vídeo Sprint 4](#) | [Doc Sprint 4](#) |
-| 5      | 01/11 - 15/11    | Integração com IA e sugestões automáticas     | [Vídeo Sprint 5](#) | [Doc Sprint 5](#) |
-
-##  Tecnologias Utilizadas  
-
-<br>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![Astah](https://img.shields.io/badge/Astah-3776AB?style=for-the-badge&logo=astah&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-## Estrutura do Projeto
-/chamados-app
-
-│
-
-├── /backend/ # Servidor, APIs e integração com banco de dados
-
-├── /frontend/ # Aplicação web
-
-├── /mobile/ # Aplicação mobile
-
-├── /docs/ # Documentação detalhada
-
-├── /tests/ # Testes automatizados
-
-└── README.md # Documentação principal
+## [Tecnologias Utilizadas](https://github.com/Anabarni/SmartDesk-TecnologiasUtilizadas)
 
 O objetivo central é aperfeiçoar o atendimento interno das empresas, proporcionando maior agilidade no tempo de resposta e consolidando em um único ambiente a comunicação entre colaboradores e equipe técnica.
 
@@ -115,3 +72,4 @@ Para contribuir com este projeto, por favor, siga as diretrizes de contribuiçã
 ## Agradecimentos
 
 Agradecemos ao corpo docente da UNIP pela orientação e suporte durante o desenvolvimento deste projeto.
+
